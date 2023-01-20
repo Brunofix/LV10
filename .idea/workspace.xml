@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="889157a9-e773-4874-a159-010ee9167150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LV10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad2/src/Lastavica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad2/src/Ptica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad2/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad2/zad2.iml" afterDir="false" />
+    <list default="true" id="889157a9-e773-4874-a159-010ee9167150" name="Changes" comment="comit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/src/Lastavica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/src/Ptica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/src/TestAutomobila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/src/UsporedbaPotrosnje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/zad4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/zad5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad3/zad4/zad5/zad5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LV10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LV10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +54,45 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "11"
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/bruno/IdeaProjects/LV10/zad2/zad3/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bruno\IdeaProjects\LV10\zad2\zad3\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LV10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zad4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="zad2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,9 +102,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674233455280</updated>
     </task>
+    <task id="LOCAL−00001" summary="comit">
+      <created>1674235743621</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1674235743621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit" />
   </component>
 </project>

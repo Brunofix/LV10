@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LV10.iml" filepath="$PROJECT_DIR$/LV10.iml" />
       <module fileurl="file://$PROJECT_DIR$/zad2/zad2.iml" filepath="$PROJECT_DIR$/zad2/zad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad2/zad3/zad3.iml" filepath="$PROJECT_DIR$/zad2/zad3/zad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad2/zad3/zad4/zad4.iml" filepath="$PROJECT_DIR$/zad2/zad3/zad4/zad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad2/zad3/zad4/zad5/zad5.iml" filepath="$PROJECT_DIR$/zad2/zad3/zad4/zad5/zad5.iml" />
     </modules>
   </component>
 </project>
